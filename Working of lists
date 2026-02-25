@@ -1,0 +1,59 @@
+<! DOCTYPE html>
+<html>
+<head>
+  <title>HTML LISTS EXAMPLES</title>
+</head>
+<body>
+  <!--unordered list-->
+   <h2>1.unordered list</h2>
+      <ul>
+          <li>Coffee</li>
+          <li>Tea</li>
+          <li>Snacks</li>
+  <!--ordered  list inside the unordered list-->
+  <li>Types of tea:
+     <ol>
+         <li>Green Tea</li>
+         <li>Black Tea</li>
+         <li>Herbal Tea</li>
+     </ol>
+  </li>
+  <!-- nested unordered list inside unordered list-->
+  <li>Snacks Available:
+     <ul>
+         <li>Chips</li>
+         <li>Biscuits</li>
+         <li>Samosa</li>
+     </ul>
+  </li>
+  </ul>
+<hr>
+  <!--ordered list-->
+<h2>2.Ordered list</h2>
+<ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Java Script</li>
+   <!--nested list inside orderedlist-->
+   <li>Frontend Frameworks:
+      <ul>
+        <li>React</li>
+       <li>Angular</li>
+       <li>Vue</li>
+      </ul>
+   </li>
+   <li>Bootstrap</li>
+   <li> React Js</li>
+</ol>
+<hr>
+<!--Definition lists-->
+<h2>3.Definition List</h2>
+<dl>
+   <dt>HTML</dt>
+   <dd>CASCADING STYLE SHEETS.</dd>
+   <dt>JS</dt>
+   <dd>JAVA SCRIPT</dd>
+</dl>
+    
+</body>
+</html>
