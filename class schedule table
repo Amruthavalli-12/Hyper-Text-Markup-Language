@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple class schedule</h2>
+</head>
+<body>
+<h2>class schedule</h2>
+<table>
+<table border="1">
+<tr>
+<th>time</th>
+<th>Monday</th>
+<th>Tuesday</th>
+</tr>
+
+<tr>
+<td>10:00 AM</td>
+<td>Math</td>
+<td>rowspan="2">Data mining lab</td>
+</tr>
+<td>11:00 AM</td>
+<td>data mining</td>
+</tr>
+</table>
+</body>
+</html>
