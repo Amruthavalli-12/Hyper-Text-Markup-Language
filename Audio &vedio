@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Audio and Vedio Embedding</title>
+</head>
+<body>
+   <h1>Embedding audio and vedio in HTML</h1>
+   <h2>Audio Player</h2>
+   <audio controls>
+     <source src="C:\Users\amruthavallisupriya\Downloads\telugu_bgms.mp3" type="audio/mpeg">
+  </audio>
+   <h2>Video Player</h2>
+   <video width="640" height="360" controls>
+      <source src="C:\Users\amruthavallisupriya\Downloads\14247790-hd_1920_1080_30fps.mp4">
+   </video>
+</body>
+</html>
