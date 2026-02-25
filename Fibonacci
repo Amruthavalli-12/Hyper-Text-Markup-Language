@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Fibonacci program</title>
+</head>
+<body>
+<h2>Factorial of a number</h2>
+<input type="number" id="num">
+<button onclick="findFibonacci()">Calculate</button>
+<p id="output"></p>
+<script>
+function findFibonacci() {
+    let n=document.getElementById("num").value;
+    let a=0;
+    let b=1;
+    let c;
+    let result=a+" "+b+" ";
+    for(let i=2;i<=n;i++) {
+        c=a+b;
+        result+=c+" ";
+         a=b;
+         b=c;
+        
+    }
+    document.getElementById("output").innerHTML="Fibonacci of"+n+"is"+result;
+}
+</script>
+</body>
+</html>
