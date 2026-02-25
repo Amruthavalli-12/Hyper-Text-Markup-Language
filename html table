@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h2>HTML TABLE<h2>
+<table>
+<table border="1">
+<tr>
+<th>NAME</th>
+<th>COMPANY</th>
+<th>LOCATION</th>
+</tr>
+<tr>
+<td>SUPRIYA</td>
+<td>GOOGLE</td>
+<td>BENGULURU</td>
+</tr>
+<tr>
+<td>PADMAVATHI</td>
+<td>INFOSYS</td>
+<td>HYDERABAD</td>
+</tr>
+<tr>
+<td>VARSHITHA</td>
+<td>TCS</td>
+<td>HYDERABAD</td>
+</tr>
+<tr>
+<td>SHANMUKHA</td>
+<td>ACCENTURE</td>
+<td>CHENNAI</td>
+</tr>
+<tr>
+<td>LASYA</td>
+<td>WIPRO</td>
+<td>CHENNAI</td>
+</tr>
+</table>
+</body>
+</html>
