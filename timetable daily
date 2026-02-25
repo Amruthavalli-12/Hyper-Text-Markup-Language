@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title><class time table</title>
+</head>
+<body>
+<h2> Weekly class schedule</h2>
+<table border="1" cellpadding="5" cellspacing="0">
+<tr bgcolor="red">
+<th>Day/Time</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>lunch</th>
+<th>5</th>
+<th>6</th>
+</tr>
+<tr bgcolor="pink">
+<th>Time</th>
+<td>9:30-10:20</td>
+<td>10:20-11:10</td>
+<td>11:10-12:00</td>
+<td>12:00-12:50</td>
+<td>12:50-1-50</td>
+<td>1:50-2:40</td>
+<td>2:40-3:30</td>
+</tr>
+<tr>
+<th>Monday</th>
+<td>---</td>
+<td>---</td>
+<td>---</td>
+<td bgcolor="blue">D.MI-CA Sec-3</td>
+<td rowspan="5" align="center"><b>L<br>U<br>N<br>C<br>H</b></td>
+<td bgcolor="green">D.MI-C.Sec-4</td>
+<td>---</td>
+</tr>
+<tr>
+<th>Tuesday</th>
+<td colspan="2" bgcolor="grey" align="center">D.MI Lab-<CASEc-4</td>
+<td>--</td>
+<td>--</td>
+<td colspan="2" bgcolor="lavender">web lab</td>
+</tr>
+<tr>
+<th>Wednesday</th>
+<td bgcolor="#90ee90">d.mi</td>
+<td>--</td>
+<td>---</td>
+</table>
+</body>
+</html>
+
+
+
